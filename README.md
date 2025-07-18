@@ -4,7 +4,7 @@ This project is developed as part of the BiteSpeed Frontend Task: Chatbot Flow B
 
 Techstack used : ReactJS, Tailwind CSS, React Flow, Roact Icons, React Toastify, React Hooks.
 
-Find the project @ : [https://thriving-boba-ea4c2d.netlify.app/](https://thriving-boba-ea4c2d.netlify.app/)
+Find the project @ : https://bite-speed-frontend-omega.vercel.app/
 
 ## Table of Contents
 - [Overview](#overview)
@@ -72,7 +72,7 @@ To get started with the project, follow these steps:
 ## Screenshots
 
 **Working Demo**
-https://github.com/PiyushPb/BitWise-Frontend-Task/assets/82027371/be40569a-32c4-4db2-96db-a066000cb95f
+https://bite-speed-frontend-omega.vercel.app/
 
 
 
