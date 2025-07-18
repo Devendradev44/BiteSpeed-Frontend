@@ -146,6 +146,6 @@ Future Improvements
 - Add more validation checks for node connections.
 
 # Contact details 
-- Portfolio : http://piyushis.online/
-- Resume : https://piyushis.online/resume
-- Linked In : https://www.linkedin.com/in/piyushpardeshi/
+- Portfolio : https://portfolioo-aadl.vercel.app/
+- Resume : https://drive.google.com/file/d/1wNGloi_jZ4aarQ5zCNJT0h0Az2YW54Cj/view?usp=sharing
+- Linked In : https://www.linkedin.com/in/pujari-devendra/
